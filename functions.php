@@ -24,7 +24,7 @@ echo <<<EOT
 	<body>
     <nav class="navtop">
     	<div>
-    		<h1>Website Title</h1>
+    		<h1>PHP Final Project</h1>
             <a href="home.php"><i class="fas fa-home"></i>Home</a>
             <a href='profile.php'><i class='fas fa-user-circle'></i>Profile</a>
             <a href="read.php"><i class="fas fa-address-book"></i>Contacts</a>
@@ -47,7 +47,7 @@ function template_headernew($title) {
         <body>
         <nav class="navtop">
             <div>
-                <h1>Website Title</h1>
+                <h1>PHP Final Project</h1>
                 <a href="index.php"><i class="fas fa-home"></i>Home</a>
             </div>
         </nav>
